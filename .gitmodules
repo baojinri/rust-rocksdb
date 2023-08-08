@@ -1,6 +1,6 @@
 [submodule "rocksdb"]
 	path = librocksdb_sys/rocksdb
-	url = https://github.com/tikv/rocksdb.git
+	url = https://github.com/baojinri/rocksdb.git
 	branch = 6.4.tikv
 
 [submodule "titan"]
